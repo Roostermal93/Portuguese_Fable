@@ -1,0 +1,49 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "13a2dc44-41bf-42fe-aa57-5721242023b8",
+            "collectionId": "Portuguese",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Portuguese/Portuguese_Fable/13a2dc44-41bf-42fe-aa57-5721242023b8/13a2dc44-41bf-42fe-aa57-5721242023b8_pt_Male.mp4"
+        },
+        {
+            "id": "c3f66611-9733-4a19-8b99-13bc0be76d5c",
+            "collectionId": "Portuguese",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Portuguese/Portuguese_Fable/c3f66611-9733-4a19-8b99-13bc0be76d5c/c3f66611-9733-4a19-8b99-13bc0be76d5c_pt_Female.mp4"
+        },
+        {
+            "id": "06a06a7a-903a-4426-8065-f80845e5d84d",
+            "collectionId": "Portuguese",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Portuguese/Portuguese_Fable/06a06a7a-903a-4426-8065-f80845e5d84d/06a06a7a-903a-4426-8065-f80845e5d84d_pt_Male.mp4"
+        },
+        {
+            "id": "294c9add-3cd9-4aa5-beda-491ca27a259f",
+            "collectionId": "Portuguese",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Portuguese/Portuguese_Fable/294c9add-3cd9-4aa5-beda-491ca27a259f/294c9add-3cd9-4aa5-beda-491ca27a259f_pt_Female.mp4"
+        },
+        {
+            "id": "23f44fc7-0568-44f5-8486-4b1a15ccdbe2",
+            "collectionId": "Portuguese",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Portuguese/Portuguese_Fable/23f44fc7-0568-44f5-8486-4b1a15ccdbe2/23f44fc7-0568-44f5-8486-4b1a15ccdbe2_pt_Female.mp4"
+        },
+        {
+            "id": "34b626b9-eca0-48a3-8b5c-475d145b3bc3",
+            "collectionId": "Portuguese",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Portuguese/Portuguese_Fable/34b626b9-eca0-48a3-8b5c-475d145b3bc3/34b626b9-eca0-48a3-8b5c-475d145b3bc3_pt_Female.mp4"
+        }
+    ]
+}
