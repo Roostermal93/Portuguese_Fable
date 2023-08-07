@@ -1,5 +1,5 @@
 {
-    "count": 6,
+    "count": 9,
     "next": null,
     "previous": null,
     "results": [
@@ -25,6 +25,20 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Fable/Portuguese/06a06a7a-903a-4426-8065-f80845e5d84d_pt_Male.mp4"
         },
         {
+            "id": "c77eb092-fd34-4164-b714-ec961113c5e5",
+            "collectionId": "Portuguese",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Fable/Portuguese/c77eb092-fd34-4164-b714-ec961113c5e5_pt_Female.mp4"
+        },
+        {
+            "id": "45d67b7b-98f0-4615-a94a-756c92f336db",
+            "collectionId": "Portuguese",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Fable/Portuguese/45d67b7b-98f0-4615-a94a-756c92f336db_pt_Female.mp4"
+        },
+        {
             "id": "294c9add-3cd9-4aa5-beda-491ca27a259f",
             "collectionId": "Portuguese",
             "type": "Fable",
@@ -37,6 +51,13 @@
             "type": "Fable",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Fable/Portuguese/23f44fc7-0568-44f5-8486-4b1a15ccdbe2_pt_Female.mp4"
+        },
+        {
+            "id": "4976c294-0978-4644-9aeb-f1843fa89d22",
+            "collectionId": "Portuguese",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Fable/Portuguese/4976c294-0978-4644-9aeb-f1843fa89d22_pt_Female.mp4"
         },
         {
             "id": "34b626b9-eca0-48a3-8b5c-475d145b3bc3",
